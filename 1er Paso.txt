@@ -1,0 +1,10 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> 
+<title>Titulo de la pagina</title> 
+</head> 
+<body> 
+<h1>Experiencia N°1</h1> 
+<p>Contenido de la pagina</p> <p lang="es">Hola hola!</p> 
+</body> 
+</html> 
